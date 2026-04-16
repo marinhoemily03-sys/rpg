@@ -444,14 +444,59 @@ p {
     text-align: left;
 }
 
+.family-grid {
+    grid-template-columns: 1fr;
+    max-width: 900px;
+}
+
+.family-grid .card-link {
+    width: 100%;
+}
+
 .family-grid .info-card {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    width: 100%;
+    min-height: auto;
+    padding: 28px 30px;
 }
 
 .family-grid .info-card h2 {
     margin-bottom: 10px;
+}
+
+.family-copy {
+    display: grid;
+    gap: 16px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.family-copy-block {
+    width: 100%;
+}
+
+.family-copy-highlight {
+    padding: 14px 16px;
+    border-left: 3px solid rgba(217, 129, 165, 0.42);
+    border-radius: 0 16px 16px 0;
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.family-copy-label {
+    display: inline-block;
+    margin-bottom: 8px;
+    color: var(--text-main);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.family-grid .family-copy p {
+    margin: 0;
+    line-height: 1.85;
 }
 
 .family-grid .card-action {

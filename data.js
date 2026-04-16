@@ -68,7 +68,7 @@ window.familyData = {
     casa: "Casa d'Aubigne",
     sobrenome: "d'Aubigne",
     descricao: "Ambiciosos e cheios de energia, o Viscondado e conhecido por sua presenca vibrante e desejo constante de crescer na sociedade. Sao intensos, sociaveis e sempre envolvidos em eventos e interacoes.",
-    aparencia: "Pele morena, olhos castanhos intensos e cabelos escuros. Tracos expressivos e presenca vibrante. Transmitem energia, charme e atitude por onde passam.",
+    aparencia: "Pele extremamente clara, quase palida, com tracos delicados e bem definidos. Todos os membros possuem cabelos loiros, variando entre tons dourados e platinados, sempre bem cuidados e alinhados. Seus olhos costumam ser claros, azul, verde ou mel, criando uma aparencia sofisticada e chamativa. A familia transmite uma elegancia fria, refinada e quase intocavel, destacando-se facilmente nos saloes da alta sociedade.",
     membros: [
       { nome: "Visconde", idade: "30 anos", status: "Disponivel", descricao: "Confiante, com olhar intenso e postura firme. Sua presenca e forte e dificil de ignorar." },
       { nome: "Primeiro irmao", idade: "26 anos", status: "Disponivel", descricao: "Carismatico e envolvente, com sorriso facil e olhar marcante. Sempre no centro das atencoes." },
@@ -81,10 +81,10 @@ window.familyData = {
   },
   laurent: {
     titulo: "Baronato",
-    casa: "Casa Laurent",
-    sobrenome: "Laurent",
-    descricao: "Familia em ascensao dentro da alta sociedade, conhecidos por sua ambicao e desejo constante de conquistar espaco entre os mais poderosos. Apesar de sua posicao, chamam atencao por sua presenca impecavel e comportamento estrategico.",
-    aparencia: "Pele extremamente clara, quase palida, com tracos delicados e refinados. Todos possuem cabelos loiros, variando entre tons dourados e claros, e olhos em tons suaves (azul claro, verde ou mel). Sua aparencia transmite uma elegancia fria e quase eterea, como se fossem intocaveis.",
+    casa: "Casa Kim",
+    sobrenome: "Kim",
+    descricao: "Uma familia de origem asiatica que se destaca por sua elegancia discreta, disciplina e forte apego as tradicoes. Reservados e observadores, os Mori preferem agir com estrategia e sutileza, construindo sua influencia atraves de aliancas bem pensadas e presenca impecavel nos saloes da sociedade francesa.",
+    aparencia: "Pele clara a levemente dourada, com tracos delicados e extremamente bem definidos. Possuem cabelos naturalmente pretos, lisos e brilhantes, sempre bem alinhados e cuidadosamente arrumados.",
     membros: [
       { nome: "Barao", idade: "29 anos", status: "Disponivel", descricao: "Alto, com postura impecavel e expressao controlada. Seus cabelos loiros sao perfeitamente alinhados, e seu olhar claro transmite ambicao e calculo." },
       { nome: "Primeiro irmao", idade: "25 anos", status: "Disponivel", descricao: "Charmoso e confiante, com sorriso leve e olhar envolvente. Sua presenca e mais sociavel e atrativa." },

@@ -3,6 +3,7 @@ const siteNavItems = [
   { href: "plot.html", label: "Historia" },
   { href: "hierarquia.html", label: "Hierarquia / Titulos" },
   { href: "familias.html", label: "Familias" },
+  { href: "familias-rival.html", label: "Familias Rivais" },
   { href: "regras.html", label: "Regras" },
   { href: "ficha.html", label: "Ficha" },
   { href: "etiqueta.html", label: "Etiqueta / Vestimenta" }
