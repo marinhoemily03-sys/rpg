@@ -383,6 +383,21 @@ p {
     text-align: center;
 }
 
+.story-lead {
+    max-width: 820px;
+    color: var(--text-main);
+    font-size: 1.1rem;
+    line-height: 1.95;
+}
+
+.story-pull {
+    color: var(--accent-soft);
+    font-size: 1.22rem;
+    font-style: italic;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
 .intro,
 .feature-caption {
     max-width: 760px;
@@ -393,6 +408,9 @@ p {
     color: var(--text-main);
     font-style: italic;
     font-size: 1.15rem;
+    max-width: 820px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(232, 207, 214, 0.18);
 }
 
 .card-grid {
@@ -886,6 +904,16 @@ p {
     .feature-caption {
         max-width: 100%;
         font-size: 0.98rem;
+    }
+
+    .story-lead,
+    .closing {
+        max-width: 100%;
+    }
+
+    .story-pull {
+        font-size: 1.05rem;
+        letter-spacing: 0.06em;
     }
 
     .card-grid {
