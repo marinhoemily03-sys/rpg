@@ -1,8 +1,8 @@
 window.familyData = {
   beaumont: {
     titulo: "Familia Real",
-    casa: "Casa Beaumont",
-    sobrenome: "Beaumont",
+    casa: "Casa Vallois",
+    sobrenome: "Vallois",
     descricao: "O centro absoluto da alta sociedade. Observados, admirados e temidos, sao responsaveis por ditar tendencias, formar aliancas e influenciar o destino de todas as familias. Cada movimento seu e analisado e nunca passa despercebido.",
     aparencia: "Pele branca, olhos claros (azul ou cinza) e cabelos loiros ou castanho-claro. Tracos delicados e extremamente refinados. Sempre impecaveis, com postura perfeita e presenca imponente, como se fossem feitos para governar.",
     membros: [
@@ -49,8 +49,8 @@ window.familyData = {
   },
   valois: {
     titulo: "Condado",
-    casa: "Casa Valois",
-    sobrenome: "Valois",
+    casa: "Casa Beaumont",
+    sobrenome: "Beaumont",
     descricao: "Familia de grande respeito na sociedade, conhecidos por sua postura firme, elegancia natural e presenca que impoe admiracao. Carregam um legado forte e valorizam honra, tradicao e respeito acima de tudo.",
     aparencia: "Pele negra, olhos escuros profundos e cabelos crespos ou cacheados. Presenca forte, elegante e extremamente marcante. Seus olhares transmitem intensidade e confianca.",
     membros: [
