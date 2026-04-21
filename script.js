@@ -4,7 +4,6 @@ const siteNavItems = [
   { href: "hierarquia.html", label: "Hierarquia / Titulos" },
   { href: "familias.html", label: "Familias" },
   { href: "familias-rival.html", label: "Familias Rivais" },
-  { href: "rumores.html", label: "Rumores / Destaque" },
   { href: "regras.html", label: "Regras" },
   { href: "ficha.html", label: "Ficha" },
   { href: "etiqueta.html", label: "Etiqueta / Vestimenta" }

@@ -521,6 +521,35 @@ p {
     align-self: flex-start;
 }
 
+.family-notes {
+    width: 100%;
+    max-width: 900px;
+    margin-top: 28px;
+    padding-top: 28px;
+    border-top: 1px solid rgba(233, 168, 188, 0.18);
+}
+
+.family-notes-header {
+    display: grid;
+    gap: 10px;
+    justify-items: center;
+    text-align: center;
+    max-width: 760px;
+    margin: 0 auto 20px;
+}
+
+.lore-grid {
+    max-width: 900px;
+}
+
+.lore-card {
+    height: 100%;
+}
+
+.lore-card p {
+    text-align: left;
+}
+
 .hierarchy-grid .info-card h2 {
     overflow-wrap: normal;
     word-break: normal;
